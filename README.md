@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![](https://visitcount.itsvg.in/api?id=jayrajrodage&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-rodage-590252194/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/JayrajRodage) 
 - 📫 How to reach me **jayrajrodge2001@gmail.com**
@@ -19,7 +20,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jayrajrodage&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=jayrajrodage&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
