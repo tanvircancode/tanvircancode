@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![](https://visitcount.itsvg.in/api?id=tanvircancode&label=Profile%20Views&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tanvircancode&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvircancode/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tanvir_chy22) 
 - 📫 How to reach me **tanvirxahm@gmail.com**
